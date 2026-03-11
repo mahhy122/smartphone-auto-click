@@ -4,7 +4,7 @@
 *.pyc
 
 Picture
-.png
+*.png
 /debug_gems
 /debug_cells
 /targets
